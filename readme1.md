@@ -44,7 +44,7 @@ This Jupyter Notebook (`finalmodel.ipynb`) showcases a Bitcoin price prediction 
 ### 5. Metrics Calculation 📈📊
 
 - **Trading Metrics:**
-  - 💹 Metrics like net profit, win rate, and max drawdown calculated.
+  - 💹 Metrics like net profit, win rate, sharpe ratio and max drawdown calculated.
 
 ### 6. Testing for Out-of-Sample Dataset 🧪🔄
 
